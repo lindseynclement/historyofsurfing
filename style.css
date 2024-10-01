@@ -1,0 +1,54 @@
+h1,h2{
+    text-align: center;
+    color: yellow;
+    font-family: 'Nunito';
+    font-size: 50px;
+
+}
+
+body{
+    background-image: url('https://stokedrideshop.com/cdn/shop/articles/Surfing.jpg?v=1664406826&width=1500');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Outfit';
+    color: yellow;
+    width: 1430px;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+img{
+    float:left;
+    margin-right: 20px;
+}
+
+.bethany{
+    float:left;
+    width:200px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.kelly{
+    float:left;
+    width:200px;
+    margin-right: 50px;
+    margin-left: 150px;
+}
+
+.koa{
+    float:right;
+    width: 200px;
+    margin-right:25px;
+    margin-left: 50px;
+}
+
+.duke{
+    float:right;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 125px;
+}
+
